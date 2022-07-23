@@ -1,0 +1,24 @@
+button{
+    background-color: red;
+    font-size: small;
+    margin: 3px;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+form{
+    text-align:center;
+}
+
+body{
+    text-align:center;
+}
+label{
+    font-size: large;
+}
+label {
+    content: '\A';
+}
+
